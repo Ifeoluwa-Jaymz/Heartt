@@ -220,7 +220,7 @@ xgb_cv.fit(X_train, y_train)
 
 # In[8]:
 
-
+# change this file path to yours or serve flow chart
 path = 'C:/Users/ACER/Documents/Python Scripts'
 
 # Pickle the model
